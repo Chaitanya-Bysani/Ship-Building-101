@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fafc0ac94adcd9b4dbbe81c8f0f2883d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GreenRock: {fileID: 21300000, guid: 1797db73d06a54045a5f41fc2a5923ef, type: 3}
+  - MagentaRock: {fileID: 21300000, guid: 0860092a1cf3d6f43b68032d93e3de1d, type: 3}
+  - WhiteRock: {fileID: 21300000, guid: 61361971c4fda324eb7f1446a47dbeeb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
